@@ -19,7 +19,7 @@ pip3 install quickfix
 Windows users: if you have problems with this step simply get quickfix binaries [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/#quickfix).  
   
 * Setup Deltix FIX Gateway.
-* Download sample [fix-client.py](https://drive.google.com/open?id=1jkb6Nizmvy_wBlIJgOVCuMRBZSdR-8iV8SznKw4DYL0) and [fix-client.cfg](https://drive.google.com/open?id=1QJbxJEKVdGytQLlEoh6R0pGwaEH9DX_lx5XuMQoMtSk) files to your work directory.
+* Download sample [fix-client.py](https://github.com/epam/ember-python-fix-sample/blob/main/fix-client.py) and [fix-client.cfg](https://github.com/epam/ember-python-fix-sample/blob/main/fix-client.cfg) files to your work directory.
 
 ## **Configure**
 
