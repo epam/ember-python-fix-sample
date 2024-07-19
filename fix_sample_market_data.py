@@ -20,7 +20,7 @@ if __name__=='__main__':
     request.set_symbols(["BTCUSD"])
     session.submit(request)
 
-    # wait for user to type something
+    # wait for user to type something then stop session
     command = input()
-    sys.exit(0)
+    session.stop()
 
